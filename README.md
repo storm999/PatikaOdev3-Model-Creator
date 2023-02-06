@@ -1,3 +1,3 @@
-# PatikaOdev3
+# PatikaOdev4
 
-GetById, Put ve Delete controller'larında fluent validation ile kontrol yapıldı.
+Post işlemi modelCreator ile yapıldı.
